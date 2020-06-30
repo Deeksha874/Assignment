@@ -2,6 +2,7 @@
 
 
 Project Topic :<Fraud Detection>
+  
 Reference : DLithe  
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
@@ -23,5 +24,7 @@ The steps involved in the project are:
 4. evaluating the models
 
 5.final model creation and analysis outcome.
+
+ Final result:
 
 The accuracy of the model os 0.9991          
